@@ -1,0 +1,345 @@
+html
+    {
+
+}
+
+body
+    {
+        margin-left: 100px;
+        margin-bottom: 10px;
+        margin-right: 100px;
+        margin-top: 50px;
+        background-image: url(bg.jpg);
+        background-repeat: no-repeat;
+        background-size: 100vw;
+        background-position: bottom;
+}
+
+h1
+    {
+        font-family: "Ballet", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 32px;
+        text-align: center;
+        margin-left: 24vw;
+        margin-right: 24vw;
+        color: hotpink;
+}
+
+h6
+    {
+        font-size: 16px;
+        text-align: left;
+        margin-left: 24vw;
+        margin-right: 24vw;
+        color: hotpink;
+        opacity:80%;
+}
+
+
+p
+    {
+        font-size: 12px;   
+        color: blue;
+}
+
+
+
+#album
+    {
+        
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 80px 200px auto;
+        column-gap: 5px;
+        
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:750px;
+        padding-top:270px;
+        z-index: -1;
+   
+}
+
+#books{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 108px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:840px;
+        padding-top:620px;
+        z-index: -1;
+}
+
+#stack{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 95px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:300px;
+        padding-top:240px;
+        z-index: -1;
+}
+
+#breakfast{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 80px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:140px;
+        opacity: 60%;
+        padding-left:710px;
+        z-index: -1;
+}
+
+#bvg{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 35px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:200px;
+        padding-top:520px;
+        z-index: -1;
+}
+
+#camera{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns:85px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:150px;
+        padding-top:270px;
+        z-index: -1;
+}
+
+#clay{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 37px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:1120px;
+        padding-top:610px;
+        z-index: -1;
+}
+
+#ginger{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 103px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        margin-left:-40px;
+        padding-top:540px;
+        z-index: -1;
+}
+
+#movie{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 65px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:800px;
+        padding-top:530px;
+        z-index: -1;
+}
+
+#horseshoe{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 63px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:45px;
+        opacity: 60%;
+        padding-left:530px;
+        z-index: -1;
+}
+
+#statue{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 80px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-top:250px;
+        margin-left: -20px;
+        z-index: -1;
+}
+
+#seed{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 115px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:970px;
+        padding-top:500px;
+        z-index: -1;
+}
+
+#med{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 120px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:1050px;
+        padding-top:240px;
+        z-index: -1;
+}
+
+#cream{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 30px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        margin-left:-60px;
+        padding-top:615px;
+        z-index: -1;
+}
+
+#walk{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 40px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:1030px;
+        padding-top:540px;
+        z-index: -1;
+}
+
+#penis{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 30px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:55px;
+        opacity: 60%;
+        padding-left:650px;
+        z-index: -1;
+}
+
+#vagina{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns:65px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:230px;
+        padding-top:620px;
+        z-index: -1;
+}
+
+#wolf{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 40px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity: 60%;
+        padding-left:910px;
+        padding-top:290px;
+        z-index: -1;
+}
+
+#woof{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 80px 200px auto;
+        column-gap: 5px;
+
+        position: sticky;
+        top:130px;
+        opacity: 60%;
+        padding-left:400px;
+        z-index: -1;
+}
+
+#yog{
+    
+        display: grid;
+        align-items: center; 
+        grid-template-columns: 70px 200px auto;
+        column-gap: 5px;
+    
+        position: sticky;
+        top:100px;
+        opacity:60%;
+        padding-left:110px;
+        padding-top:570px;
+        z-index: -1;
+}
